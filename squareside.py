@@ -1,6 +1,6 @@
 """
 Module for solving problem.
-Git link: 
+Git link: https://github.com/Vadum-cmd/lab1_3
 """
 def user_input():
     '''
